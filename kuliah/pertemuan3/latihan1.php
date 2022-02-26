@@ -8,5 +8,9 @@ for($i = 1; $i <= 10; $i++) {
 }
 
 // Pengkondisian
+$x = 10;
+if( $x > 5 ) {
+  echo "Bilangan $x lebih besar dari 5";
+}
 
 ?>
